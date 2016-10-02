@@ -8,8 +8,8 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  name: Give Me Love # REQUIRED - Enter your app name
+  ios_id: 1155118425 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
@@ -25,8 +25,14 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Spend a little time on the things that you ❤️ 
+marketing_desc: "There are things you want to spend time on. But somehow you never get to them, or you don't know how to begin.
+
+The trick is to choose one thing and give it some love. Spend a little time on it. Even 5 minutes goes a long way.
+
+We want to help. Together we can make a list of things that are important to you. You decide how often you want to give each of them some love, and every time you do, you tap a heart to celebrate your progress. We will let you know how you are doing and keep you on track. You will be amazed to finally see progress on things that matter to you.
+
+No more excuses. Download the app...and start spreading the love!"
 
 #
 # Social Links
