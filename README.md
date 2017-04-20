@@ -25,30 +25,3 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
-
-# Story
-
-Achieving your goals is now routine. Introducing Give Me Love.
-
-## Build a routine that you can stick with. 
-
-<screenshot> Add actions to the list and decide how often you want to do them.
-
-## Tap to show your love
-
-<screenshot> Do an action and tap its heart to show that you gave it some love. Well done!
-
-## See what needs some love
-
-<screenshot> The actions that need love rise to the top. You can see the last time you did each action and when you are supposed to do it next.
-
-## Stay on course
-
-4. If you forget to do an action, you will get a reminder.
-
-
-"Easy progress tracking and timely prodding keep you on course. It is simple and it works!"
-
-"Give Me Love is simple and attractive. It just works!"
-
-"I am surprised how easy it is to stick with my routine. Almost magic!"

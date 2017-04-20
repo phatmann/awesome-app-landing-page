@@ -13,13 +13,7 @@ html
     height: 100%;
 }
 
-body,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6
+h1,h2,h3,h4,h5,h6
 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -131,8 +125,9 @@ h6
 {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/banner-bg.jpg) no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .banner h2
@@ -206,19 +201,6 @@ img.support
     border-top: none;
 }
 
-h1.support, .navbar-default .navbar-nav > li > a
-{
-    color: #f8f8f8;
-}
-
-
-body.support
-{
-    background: url('../img/bg.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .panel-default
 {
     background-color: #343434;
@@ -228,5 +210,16 @@ body.support
 .panel-body
 {
     color: #dfdddd;
+}
+
+.panel dl
+{
+    color: white;
+    margin: 10px;
+}
+
+dd
+{
+    margin-bottom: 10px;
 }
 
