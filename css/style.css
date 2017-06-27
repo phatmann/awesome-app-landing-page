@@ -223,3 +223,8 @@ dd
     margin-bottom: 10px;
 }
 
+.navbar-white .navbar-nav > li > a
+{
+    color: #f8f8f8;
+}
+
